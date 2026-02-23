@@ -6,4 +6,4 @@ const ghugh = () => {
   )
 }
 
-export default ghugh
+export default ghugh;
