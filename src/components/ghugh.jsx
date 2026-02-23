@@ -1,9 +1,9 @@
 import React from 'react'
 
-const ghugh = () => {
+const Ghugh = () => {
   return (
     <div>ghugh</div>
   )
 }
 
-export default ghugh
+export default Ghugh

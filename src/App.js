@@ -9,10 +9,8 @@ import CreateUserSec from './components/createUserSec';
 import CreateUserThird from './components/createUserThird';
 import CreateNewUser from './components/CreateNewUser';
 import GitLearn from './components/GitLearn';
-
-
-import GitLearn from './components'
 import Ghugh from './components/ghugh';
+
 function App() {
   return (
     <div className="App">
