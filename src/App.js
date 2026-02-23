@@ -9,12 +9,9 @@ import CreateUserSec from './components/createUserSec';
 import CreateUserThird from './components/createUserThird';
 import CreateNewUser from './components/CreateNewUser';
 import GitLearn from './components/GitLearn';
-<<<<<<< HEAD
-=======
 
 
 // import GitLearn from './components/GitLearn'
->>>>>>> a098cd96c849a416e4b26cf291c48e0750765e7a
 import Ghugh from './components/ghugh';
 
 function App() {
