@@ -8,7 +8,8 @@ import CreateUserOne from './components/createUserOne';
 import CreateUserSec from './components/createUserSec';
 import CreateUserThird from './components/createUserThird';
 import CreateNewUser from './components/CreateNewUser';
-import GitLearn from './components'
+import GitLearn from './components/GitLearn';
+
 
 function App() {
   return (
@@ -17,15 +18,15 @@ function App() {
      {/* <HomePage/> */}
      {/* <AddUser/> */}
      <GitLearn/>
-     <BrowserRouter>
+     {/* <BrowserRouter>
      <Routes>
     <Route exact path="/" element={<HomePage/>}/>
     <Route exact path="/CreateUser" element={<CreateNewUser/>}/>
-    <Route exact path='/' element={<CreateNewUser/>}/>
+    <Route exact path='/' element={<CreateNewUser/>}/> */}
     {/* <Route exact path='/addUserThird' element={<CreateUserThird/>}/> */}
     {/* <Route exact path='/Home' element={<AddUser/>}/> */}
-     </Routes>
-     </BrowserRouter>
+     {/* </Routes>
+     </BrowserRouter> */}
     
     </div>
   );
